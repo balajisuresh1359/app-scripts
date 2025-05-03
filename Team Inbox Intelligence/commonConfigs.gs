@@ -23,7 +23,7 @@ const sheetPageLimit = 100;
 
 // JIRA
 const includeJiraOpenRB = true;
-const jiraURL = 'https://cltech.atlassian.net/rest/api/2/search';
+const jiraURL = '';
 const jiraOpenRBStartingDate = '2024-08-01';
 const jiraBugOriginList = [];
 const jiraUserName = null;
